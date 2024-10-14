@@ -14,6 +14,7 @@ For each program a two dimensional data structure is implemented using a linear 
 | 1   | 1   | 1   | 1   |
 | 2   | 2   | 2   | 2   |
 | 3   | 3   | 3   | 3   |
+
 **Program1**
 - An outer loop iterates the ***rows***
 - An inner loop iterates the ***columns***
