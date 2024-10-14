@@ -7,7 +7,7 @@ The aim of these programs is to demonstrate how little most programmers understa
 In this particular implementation of the three programs I have focused on creating code that differs as little as possible between the three versions:
 
 **Data**
-For each program a two dimensional data structure is implemented using a linear Vec. There are a equal number of columns as there are rows (square). The values in each row are equal to the row index e.g. for a 4x4 grid:
+For each program a two dimensional data structure is implemented using a linear Vec. There are an equal number of columns as there are rows (square). The values in each row are equal to the row index e.g. for a 4x4 grid:
 
 | 0   | 0   | 0   | 0   |
 | --- | --- | --- | --- |
